@@ -1,0 +1,6 @@
+- [Base.org](https://base.org)
+- [Base Docs](https://docs.base.org)
+- [Talent Protocol](https://talentprotocol.com)
+- [LearnWeb3.io](https://learnweb3.io)
+- [Buildspace](https://buildspace.so)
+- [Ethereum Developer Portal](https://ethereum.org/en/developers)
