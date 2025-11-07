@@ -15,7 +15,7 @@ Bienvenue dans Learnig ressources, un dépôt communautaire pour partager des re
 2. Ajoutez vos propres ressources ou outils
 3. Faites une Pull Request
 
-Chaque contribution aide la communauté à grandir 🚀
+Chaque contribution aide la communauté à grandir 
 
 ---
 
